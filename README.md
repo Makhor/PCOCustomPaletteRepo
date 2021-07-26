@@ -11,10 +11,12 @@ Check out the README.md present inside the Characters folder.
 
 ## How can I submit palettes?
 
-Contact me and I will give you access to the repo so that you can add palettes yourself. Email me at this adress: makhordev@gmail.com,
-or through my Discord if you want to (Makhor#1840).
+You can pull this repo and then make a pull request, following the steps detailed below.  
+If you're not familiar with Git and do not know what the above meant, you can always email me at this adress: makhordev@gmail.com, or through my Discord (Makhor#1840),
+and give me the palette you wish to submit so that I can add it for you, but pull requests are recommended. In either case, you still need to follow the steps below
+about the format.
 
-Once you have access to the repo, you can add your own palette like this:
+Once you have cloned the repo, you can add your own palette like this:
 1) Grab one of the Color Indexed PNGs present on the ImagePack folder of the character you want, and apply your color palette to it.
 2) Save the image to the appropiate folder in the Characters folder, and call it "Palette-.png", where the "-" should be replaced with the number of your color palette. So for example, if you want to add a Rosalia color palette, and you see that the last palette image present in the "Rosalia" folder has the number 2, then your color palette image should have the number 3.
 3) Add the code for your palette in the README.md file present in the character folder, following the format of the other palettes.
