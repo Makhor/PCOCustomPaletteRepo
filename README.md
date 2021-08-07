@@ -23,6 +23,14 @@ Once you have cloned the repo, you can add your own palette like this:
 
 Note: In the case of Lilibri/Hyper Lilibri, you need to also make images for them individually. Example: If you make a Lilibri/Hyper Lilibri color palette, you need to make two images: one of them with the color palette applied to normal Lilibri, and the other one applied to Hyper Lilibri. The file name for both of these images would be "Palette-n.png" for normal Lilibri and "Palette-h.png" for Hyper Lilibri. 
 
+## Submission Rules
+- Palettes that drastically change the skin color of POC characters will not be accepted.
+- Palettes that reference any racist/homophobic/transphobic media or figures will not be accepted.
+- This repo is intended to be SFW, so any palette that references NSFW media (mostly pornography) will not be accepted.
+
+Submitted palettes that break any of these rules won't be added to the repository, and on certain cases,
+will get you blacklisted from submitting to this repo, so keep that in mind.
+
 ## Why aren't there individual folders for Penny, Deony and Hyper Lilibri?
 
 This is because the palettes for Penny and Deony are shared, which means that you can paste the code for a Penny & Deony Color Palette into their individual
@@ -31,6 +39,6 @@ some of Hyper Lilibri's colors are already present in Lilibri's palette, and in 
 
 This is done in an attempt to make browsing palettes easier, but if there's a huge demand for individual folders for these characters, I'll reconsider the current structure.
 
-## Contributors/Credits
+## Contributors
 - Makhor (Moderator)
-
+- kyatt7([@kyatt7](https://twitter.com/kyatt7) )
