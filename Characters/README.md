@@ -21,10 +21,10 @@ Number of custom palettes per character:
 - Mimi: 2
 - Nova: 0
 - Ore Kid: 1
-- Penny & Deony: 2
+- Penny & Deony: 3
 - Rosalia: 0
 - Strelitz: 0
 - Yosoti: 0
 
 Total number of custom palettes:
-**8**
+**9**
