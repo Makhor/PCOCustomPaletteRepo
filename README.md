@@ -42,4 +42,4 @@ This is done in an attempt to make browsing palettes easier, but if there's a hu
 ## Contributors
 - Makhor (Moderator)
 - kyatt7([@kyatt7](https://twitter.com/kyatt7) )
-- Akkuyo116
+- Akkuyo1116
