@@ -23,8 +23,8 @@ Number of custom palettes per character:
 - Ore Kid: 1
 - Penny & Deony: 3
 - Rosalia: 0
-- Strelitz: 0
+- Strelitz: 3
 - Yosoti: 0
 
 Total number of custom palettes:
-**11**
+**14**
