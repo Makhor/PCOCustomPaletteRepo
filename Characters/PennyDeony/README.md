@@ -21,4 +21,9 @@ Code:
 Code:
 > 18 000000 000000 3f462e 6d2e37 cfed76 d6bf79 ffe687 5b7e3a e8bc25 8fb928 afad5d ea7c8c 5b9360 ded044 ffc9c6 93d187 f8faff fffef8
 
+## 4. Apollo Justice and Trucy Wright (Apollo Justice: Ace Attorney) by Makhor
 
+![Palette4](https://github.com/Makhor/PCOCustomPaletteRepo/blob/main/Characters/PennyDeony/Palette4.png?raw=true)
+
+Code:
+> 18 000000 000000 380013 6d2e37 bd3129 523921 7b4229 312118 9cceef 5a6b94 399c84 ea7c8c bdc6ce aee0d3 f8c898 fff7f7 f8faff fffff7
