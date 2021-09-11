@@ -43,3 +43,4 @@ This is done in an attempt to make browsing palettes easier, but if there's a hu
 - Makhor (Moderator)
 - kyatt7([@kyatt7](https://twitter.com/kyatt7) )
 - Akkuyo1116
+- Arcane
