@@ -16,7 +16,7 @@ Number of custom palettes per character:
 - Daize: 1
 - Deony: 0
 - Lilibri/Hyper Lilibri: 2
-- Libbie: 0
+- Libbie: 1
 - Milla: 0
 - Mimi: 2
 - Nova: 2
@@ -27,4 +27,4 @@ Number of custom palettes per character:
 - Yosoti: 0
 
 Total number of custom palettes:
-**15**
+**16**
