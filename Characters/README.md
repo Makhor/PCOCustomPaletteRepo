@@ -13,18 +13,18 @@ also be the number of the costume in the game (Example: Line 6 corresponds to Co
 Number of custom palettes per character:
 - Arlet: 0
 - Baz: 0
-- Daize: 1
+- Daize: 2
 - Deony: 0
 - Lilibri/Hyper Lilibri: 2
-- Libbie: 1
+- Libbie: 2
 - Milla: 0
 - Mimi: 2
 - Nova: 2
 - Ore Kid: 1
 - Penny & Deony: 4
 - Rosalia: 0
-- Strelitz: 3
+- Strelitz: 4
 - Yosoti: 0
 
 Total number of custom palettes:
-**16**
+**19**
