@@ -1,0 +1,2 @@
+10 000000 000000 0057af ff8f0f ff8800 df2020 bfd5eb ffcfaf ffffff fcfffc
+10 000000 000000 281c1c 791e1e c20e0e da2c0d 676464 feae5a aaa8a8 fef5f8

@@ -7,7 +7,7 @@ This repository is a community managed repository to share custom character pale
 It is meant to be a place where members of the Friend & Fairy community can host their own custom palettes for others to use.
 
 ## How do I use these palettes in my game?
-Check out the README.md present inside the Characters folder.
+Read the README.md on your PCO directory, and check out the README.md present inside the Characters folder for some extra info.
 
 ## How can I submit palettes?
 
@@ -30,14 +30,6 @@ Note: In the case of Lilibri/Hyper Lilibri, you need to also make images for the
 
 Submitted palettes that break any of these rules won't be added to the repository, and on certain cases,
 will get you blacklisted from submitting to this repo, so keep that in mind.
-
-## Why aren't there individual folders for Penny, Deony and Hyper Lilibri?
-
-This is because the palettes for Penny and Deony are shared, which means that you can paste the code for a Penny & Deony Color Palette into their individual
-character folders, and they will work without a problem, so it feels a bit more clean to have them all in one folder. Same thing goes with Lilibri, as
-some of Hyper Lilibri's colors are already present in Lilibri's palette, and in most cases, if you make a palette for Lilibri, people will probably wonder why there isn't a Hyper Lilibri version, so it's better to do them both.
-
-This is done in an attempt to make browsing palettes easier, but if there's a huge demand for individual folders for these characters, I'll reconsider the current structure.
 
 ## Contributors
 - Makhor (Moderator)

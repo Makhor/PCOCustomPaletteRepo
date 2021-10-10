@@ -2,11 +2,12 @@
 
 ## How do I use these palettes?
 
-Simply go to the folder of the character you wish to get a palette for, choose a palette you like, and copy the code for it.
-Once you have it, you can go into your PCO directory, go to the appropiate character folder inside of data/characters, and
-open the palette.txt file with Notepad++ or something similar. Then, delete one of the lines, and paste the one you have on
-your clipboard. Once that's done, you can boot up the game and check it out! Also, the number of the line you replace will
-also be the number of the costume in the game (Example: Line 6 corresponds to Costume 6, etc).
+Custom palettes are placed in the "palettes" folder in your Friend & Fairy/Petal Crash Online folder, which is inside your AppData directory (This folder is also where 
+your game preferences are stored). Simply place a .txt with the name of the character, copy one of the palette codes for said character, and paste it inside the .txt.
+You *need* to create the "palettes" folder, as it is not created by default.
+
+If you wish to have all of the palettes from this repository available in your game, simply copy the contents inside the "palettes" folder into your own. The advantage of this method is that anyone
+else that also uses the files from this repo will be able to see your custom palettes! 
 
 ## Statistics
 
@@ -14,7 +15,7 @@ Number of custom palettes per character:
 - Arlet: 0
 - Baz: 0
 - Daize: 2
-- Deony: 0
+- Deony: 1
 - Lilibri/Hyper Lilibri: 2
 - Libbie: 2
 - Milla: 0
@@ -27,4 +28,4 @@ Number of custom palettes per character:
 - Yosoti: 0
 
 Total number of custom palettes:
-**19**
+**20**
