@@ -36,3 +36,6 @@ will get you blacklisted from submitting to this repo, so keep that in mind.
 - kyatt7([@kyatt7](https://twitter.com/kyatt7) )
 - Akkuyo1116
 - Arcane
+
+## Custom Tileset Credits
+- Trashboat (Gem Crash Tileset)
